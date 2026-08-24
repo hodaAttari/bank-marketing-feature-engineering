@@ -45,7 +45,6 @@ The dataset contains information about customers contacted via a direct marketin
 
 ---
 
-##  Getting Started
 
 ### Prerequisites
 Make sure you have Python 3.8+ installed.
